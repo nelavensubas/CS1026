@@ -10,3 +10,8 @@ Include: data types, variables, expressions, program constructs, strings (text),
 data structures (lists, tuples, sets dictionaries),objects, object oriented design, classes, modularity,
 and problem solving techniques. Programming examples and assignments are taken from a
 variety of disciplines.
+## Assignments
+- Assignment 1 - Coffee or Tea: A Python program that computes the cost of a specialty coffee or tea beverage.
+- Assignment 2 - Volume Calculator: A Python program computes the volume for a number of different shapes.
+- Assignment 3 - Sentiment Analysis: A Python program that deals with textual analysis from Twitter information.
+- Assignment 4 - Country Classes: A Python program that uses classes to store, search, sort, remove, and filter country data.
